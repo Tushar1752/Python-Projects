@@ -1,6 +1,6 @@
-#create a program which is capable of displYING QUESTION LIKE KBC  
-#Use list data type to store the question snd their correct answer 
-#Display the final amount the person is taking homew after playing the game
+#creating  a program which is capable of displYING QUESTION LIKE KBC  
+
+
 print("The name of prime minister of india is:")
 A=("Narendra modi")
 print("A",A)
@@ -18,7 +18,6 @@ if user_choice  == correct_option:
 else:
     print("chala ja bhutni ke")
 
-### ye copied hai dhyan rakhna  neeche wala sirf padhne ke purpose se hai c
 
 
 # KBC Game using list
